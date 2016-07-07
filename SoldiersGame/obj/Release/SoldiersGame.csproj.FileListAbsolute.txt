@@ -1,0 +1,9 @@
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\bin\Release\SoldiersGame.exe.config
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\bin\Release\SoldiersGame.exe
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\bin\Release\SoldiersGame.pdb
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\obj\Release\SoldiersGame.csprojResolveAssemblyReference.cache
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\obj\Release\SoldiersGame.Properties.Resources.resources
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\obj\Release\SoldiersGame.csproj.GenerateResource.Cache
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\obj\Release\SoldiersGame.exe
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\obj\Release\SoldiersGame.pdb
+C:\Users\mu-to\Documents\Visual Studio 2015\Projects\SoldiersGame\SoldiersGame\obj\Release\SoldiersGame.Form1.resources
